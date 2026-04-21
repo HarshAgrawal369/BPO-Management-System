@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🚀 BPO Management System
 
-# Run and deploy your AI Studio app
+The BPO Management System is a software solution designed to streamline and manage business process outsourcing operations efficiently. It helps organizations handle customer queries, manage support tickets, assign tasks to agents, and monitor overall workflow in a structured manner.
 
-This contains everything you need to run your app locally.
+This system enables smooth communication between customers, agents, and administrators, ensuring that issues are resolved quickly and effectively. It improves productivity, reduces response time, and maintains proper records of all interactions.
 
-View your app in AI Studio: https://ai.studio/apps/7485ff9b-c7bb-4f2e-8c9a-af2fbe2e4f0e
+✨ Key Features
+👤 User Authentication (Admin, Agent, Customer)
+🎫 Ticket Creation and Management
+📌 Task Assignment to Agents
+🔄 Real-time Status Tracking (New, In Progress, Resolved, Closed)
+📊 Reports and Performance Monitoring
+🗂️ Database Management for Records
+⚙️ How It Works
+Customer raises a query or ticket
+System records and assigns it to an agent
+Agent processes and resolves the issue
+System updates the status and notifies the customer
+Admin monitors performance and manages operations
+🎯 Purpose
 
-## Run Locally
+The main goal of this system is to:
 
-**Prerequisites:**  Node.js
+Improve customer support efficiency
+Organize workflow in BPO operations
+Provide better tracking and reporting
+Reduce manual work and errors
+🛠️ Tech Stack (Example)
+Frontend: HTML, CSS, JavaScript
+Backend: Python / Java / Node.js
+Database: MySQL / MongoDB
+📌 Use Cases
+Customer Support Centers
+Call Centers
+IT Helpdesk Systems
+Service-based organizations
+📈 Outcome
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This system helps businesses deliver faster, more reliable, and organized customer service, making operations smoother and more scalable.
